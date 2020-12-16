@@ -3,7 +3,7 @@ A bot that lets you sleep in by automatically joining and leaving zoom meetings 
 
 ## Requirements:
 
-PyAutoGui is best optimized for python version == 3.7, so this version was used. \n
+PyAutoGui is best optimized for python version == 3.7, so this version was used.
 Unfortunately, my venv folder was too large so I'll leave steps on how to make and install required packages yourself.
 
 1. open cmd
