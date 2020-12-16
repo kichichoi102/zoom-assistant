@@ -10,7 +10,7 @@ Unfortunately, my venv folder was too large so I'll leave steps on how to make a
 2. Change to the directory of zoom-assistant folder
 3. use: 
 ```
-py -3.7 -m venv (desired_name_of_venv_folder)
+py -3.7 -m venv desired_name_of_venv_folder
 ```
 4. install the required packages on requirements.txt:
 ```
